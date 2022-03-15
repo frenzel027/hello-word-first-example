@@ -1,3 +1,3 @@
-# hello-word-first-example
-I do the quickstart and learn the basics of Github. 
-I'm not sure about the content of this repro. Mostly only a play.
+# Hello you, 
+have you ever read such a text? Why?  
+I'm trying to write some words, but it is not easy for me. 
